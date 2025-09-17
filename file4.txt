@@ -1,1 +1,1 @@
-SAMPLE TEST
+This is sample text inside file4.txt
